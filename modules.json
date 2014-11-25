@@ -1,0 +1,4 @@
+{
+    "event:Event": "./src/Event.js",
+    "event:EventTarget": "./src/EventTarget.js"
+}
